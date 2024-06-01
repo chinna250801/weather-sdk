@@ -1,6 +1,7 @@
 import requests
 from weather_sdk.utils import WeatherAPIUtils
 
+
 class WeatherSDK:
     _isinstance = None
 
